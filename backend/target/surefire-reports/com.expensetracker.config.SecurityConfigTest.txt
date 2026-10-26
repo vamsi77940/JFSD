@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.expensetracker.config.SecurityConfigTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.124 s -- in com.expensetracker.config.SecurityConfigTest

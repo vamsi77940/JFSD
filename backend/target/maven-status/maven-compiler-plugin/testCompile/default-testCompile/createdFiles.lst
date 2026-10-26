@@ -1,0 +1,9 @@
+com\expensetracker\service\BudgetServiceTest.class
+com\expensetracker\config\SecurityConfigTest.class
+com\expensetracker\service\ExpenseServiceTest.class
+com\expensetracker\service\IncomeServiceTest.class
+com\expensetracker\service\SavingsGoalServiceTest.class
+com\expensetracker\security\JwtTokenProviderTest.class
+com\expensetracker\service\DashboardServiceTest.class
+com\expensetracker\service\CategoryServiceTest.class
+com\expensetracker\service\AuthServiceTest.class

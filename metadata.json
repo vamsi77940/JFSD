@@ -1,0 +1,6 @@
+{
+  "name": "RupeeTrack - India Expense Tracker",
+  "description": "Full-stack India-focused expense tracker built with React and Java Spring Boot. Manage daily expenses in ₹ (INR), UPI/Cash/Card modes, budgets, income, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
